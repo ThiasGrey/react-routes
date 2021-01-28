@@ -24,9 +24,6 @@ const Content = props => (
             <Route path="*">
                 <NotFound />
             </Route>
-
-
-
         </Switch>
     </main>
 )
